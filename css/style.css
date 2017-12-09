@@ -378,10 +378,13 @@ body {
 	width: 98px;
 	text-align: center;
 }
-.new .text {
+.news .text {
 	float: right;
-	width: 324px;
+	width: 254px;
 	padding-top: 4px;
+}
+.news .text a {
+	color: #55606e;
 }
 .news img {
 	border-radius: 50%;
@@ -390,7 +393,7 @@ body {
 	font-size: 14px;
 	color: #abb1bb;
 }
-.new p {
+.news p {
 	margin: 4px 0 0;
 }
 
