@@ -77,6 +77,7 @@ body {
 .footer {
 	background: #15181f url(../image/bg-texture.jpg) repeat 50% 50%;
 	color: #fff;
+	min-width: 1140px;
 }
 .logo {
 	float: left;
@@ -131,6 +132,7 @@ body {
 
 .middle {
 	background: #fff;
+
 }
 
 .hero {
@@ -140,6 +142,7 @@ body {
 	color: #fff;
 	text-align: center;
 	padding-top: 31px;
+	min-width: 1140px;
 }
 .hero h1 {
 	font-size: 52px;
